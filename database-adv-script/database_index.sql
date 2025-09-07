@@ -1,3 +1,3 @@
 CREATE INDEX User, Booking, and Property 
 
-EXPLAIN or ANALYZE.
+EXPLAIN or ANALYZE. ON

@@ -1,1 +1,6 @@
- 
+ ["SELECT", "INNER JOIN", "FROM"]
+
+
+ LEFT JOIN
+
+ FULL OUTER JOIN

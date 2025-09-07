@@ -1,0 +1,7 @@
+ROW_NUMBER, RANK
+
+
+
+GROUP BY
+
+ COUNT
